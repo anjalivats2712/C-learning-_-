@@ -1,0 +1,14 @@
+= is used for assigning values
+== is used for equality check
+the condition can be any valid expressions,In c ,a non 
+zero value is considered to be true 
+
+operator precedence
+1st - !
+2nd - / ,%
+3rd - +,-
+4th - <>,<=,>=
+5th - ==,!=
+6th - &&
+7th - ||
+8th - =
