@@ -23,3 +23,6 @@ int main(){
 
     
 // }
+// warning:the loops can be infinite by a small mistake.and problem
+// can occur therefore must be carefully executed
+
