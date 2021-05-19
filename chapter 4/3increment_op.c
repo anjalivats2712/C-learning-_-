@@ -6,6 +6,7 @@ int main(){
     printf("the value of a is %d\n",a);
     int b=6;
     printf("the value of b is %d\n",++b);
+    printf("the value of b is %d \n",b);
     //++b:increments first then prints
     //same for decrements operators
     int c=4;
