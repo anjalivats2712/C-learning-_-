@@ -10,7 +10,7 @@ int main(){
     a++;//increase by 4 bytes
     printf("the value of a now is %u\n",a);
     printf("the value of k is %u\n",k);
-    k++;
+    k++;//increases by 1 byte
     printf("the value of k now is %u\n",k);
     return 0;
 }

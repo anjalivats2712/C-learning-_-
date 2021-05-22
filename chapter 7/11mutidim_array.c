@@ -7,8 +7,6 @@ int main(){
             printf("enter the marks of student %d in subject %d:\n",i+1,j+1);
             scanf("%d",&marks[i][j]);
             }
-    
-    
     }
     int k;
         int summ =0;
