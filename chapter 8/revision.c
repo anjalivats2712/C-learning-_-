@@ -6,7 +6,7 @@ int main(){
     char stri[]="anjali vats";
     char*ptr=str;
     //printing strings
-    while(*ptr!='\0'){
+    while(*ptr=='\0'){
         printf("%c",*ptr);
         ptr++;
     }
