@@ -27,7 +27,7 @@ int main(){
     }
     char room;
     printf("\nenter the room code\n");
-    scanf(" %c",room);
+    scanf(" %c",&room);
     switch(room){
         case 'A':
         printf("ROOM IS A");
