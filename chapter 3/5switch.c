@@ -25,4 +25,27 @@ int main(){
         break;
 
     }
+    char room;
+    printf("\nenter the room code\n");
+    scanf(" %c",room);
+    switch(room){
+        case 'A':
+        printf("ROOM IS A");
+        break;
+        case 'B':
+        printf("ROOM IS B");
+        break;
+        case 'C':
+        printf("ROOM IS C");
+        break;
+        case 'D':
+        printf("ROOM IS D");
+        break;
+        case 'E':
+        printf("ROOM IS E");
+        break;
+        default:
+        printf("invalid room no.");
+        break;
+    }
 }
