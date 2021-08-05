@@ -1,0 +1,2 @@
+anjali, 10000
+kartik, 10000
