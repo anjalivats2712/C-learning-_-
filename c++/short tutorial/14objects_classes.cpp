@@ -14,7 +14,7 @@ class Musician{
     Musician(int no,string n){
         this->name=n;
         this->no=no;
-    }
+    }//constructor
 };
 
 int main(){
